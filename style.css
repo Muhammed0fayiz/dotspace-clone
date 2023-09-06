@@ -1,0 +1,361 @@
+.first-section {
+    width: 100%;
+    height: 800px;
+    background-image: url(image/kowdiarheader.jpg);
+    background-size: cover;
+}
+
+.head1 {
+    width: 100%;
+    height: 100px;
+    position: sticky;
+    top: 0;
+
+}
+
+.head1-sub1 {
+    width: 50%;
+    height: 100px;
+    float: left;
+
+
+
+}
+
+.head1-sub2 {
+    width: 50%;
+    height: 100px;
+    float: left;
+
+}
+
+body {
+    margin: 0px;
+}
+
+.headbox-1 {
+    font-size: 28px;
+    padding-left: 65px;
+    margin-top: 30px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    cursor: pointer;
+}
+
+.headbox-1:hover {
+    color: yellow;
+}
+
+.headbox-2 {
+    padding-left: 250px;
+    padding-top: 27px;
+    word-spacing: 42px;
+    color: white;
+    display: flex;
+}
+
+#plans:hover {
+    color: yellow;
+}
+
+#conduct:hover {
+    color: yellow;
+}
+
+#amenitie:hover {
+    color: yellow;
+}
+
+#conduct {
+    padding-left: 40px;
+}
+
+#amenitie {
+    padding-left: 40px;
+}
+
+.headbox-3 {
+
+    width: 500px;
+    height: 130px;
+    margin-top: 250px;
+    margin-left: 60px;
+}
+
+.about {
+    color: white;
+    margin-top: -40px;
+    font-size: 20px;
+
+}
+
+.first-section-last {
+    width: 100%;
+    height: 400px;
+    color: red;
+    background-color: #22a190;
+    margin-top: -110px;
+}
+
+.amenities {
+    padding-left: 502px;
+    font-size: 36px;
+    color: white;
+    padding: top;
+    padding-top: 56px;
+}
+
+#line {
+    border: 1px solid white;
+    width: 45px;
+    padding-left: 14px;
+    margin-left: 46px;
+    margin-top: -13px;
+}
+
+.icon {
+    width: 89%;
+    height: 150px;
+    display: flex;
+    background-color: rgb(219, 219, 219);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 130px;
+
+}
+
+.icon svg {
+    width: 40px;
+    height: 44px;
+    color: #ffffff;
+}
+
+
+
+
+.icon1 {
+
+    background-color: #22a190;
+    padding-top: 30px;
+}
+
+.icon1 p {
+    color: rgb(255, 255, 255);
+    margin-left: -35px;
+}
+
+.icon2 {
+    background-color: #22a190;
+    padding-top: 30px;
+}
+
+.icon2 p {
+    color: rgb(255, 255, 255);
+    margin-left: -35px;
+}
+
+.icon3 {
+
+    background-color: #22a190;
+    padding-top: 30px;
+}
+
+.icon3 p {
+    color: rgb(255, 255, 255);
+    margin-left: -5px;
+}
+
+.icon4 {
+
+    background-color: #22a190;
+    padding-top: 30px;
+}
+
+.icon4 p {
+    color: rgb(255, 255, 255);
+    margin-left: -35px;
+}
+
+.body2 {
+    width: 100%;
+    height: 900px;
+}
+
+.body2-1 {
+    width: 60%;
+    height: 900px;
+    float: left;
+}
+
+.body2-2 {
+    width: 40%;
+    height: 887px;
+    float: left;
+    background-image: url(image/kowdiarvertical.jpg);
+    background-size: cover;
+    margin-top: 0px;
+}
+
+.body2-1boxsec {
+    width: 100%;
+    height: 550px;
+
+
+
+}
+
+.subbox1 {
+    width: 40%;
+    height: 50%;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    line-height: 30px;
+    font-size: 16px;
+    margin-left: 40px;
+}
+
+.subbox1 svg {
+    margin-left: -20px;
+}
+
+.subbox2 {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    line-height: 30px;
+    font-size: 18px;
+
+}
+
+.subbox3 {
+    width: 40%;
+    height: 50%;
+
+    float: left;
+    line-height: 30px;
+    font-size: 18px;
+    margin-left: 40px;
+
+}
+
+.subbox4 {
+    width: 50%;
+    height: 50%;
+
+    float: left;
+    line-height: 30px;
+    font-size: 18px;
+}
+
+.body3 {
+    width: 100%;
+    height: 500px;
+    margin-top: -14px;
+    background-color: #2d3334;
+
+}
+
+.body3-1 {
+    width: 100%;
+    height: 175px;
+
+}
+
+.body3-2 {
+    width: 100%;
+    height: 175px;
+
+}
+
+.iconimage1 {
+    width: 80px;
+    height: 70px;
+    background-image: url(image/PO.png);
+    background-size: cover;
+    margin-left: 580px;
+}
+
+.body3-3 {
+    width: 100%;
+    height: 200px;
+    display: flex;
+
+}
+
+#body3-plans {
+
+    padding-left: 577px;
+    padding-top: 54px;
+    color: #fff;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.subbox3-1 {
+
+    width: 33%;
+    height: 100%;
+    float: left;
+    padding-left: 100px;
+}
+
+.subbox3-2 {
+
+    width: 33%;
+    height: 100%;
+    float: left;
+    padding-left: 100px;
+
+}
+
+.subbox3-3 {
+
+    width: 33%;
+    height: 100%;
+    float: left;
+    padding-left: 100px;
+}
+
+#dedicated {
+    color: white;
+}
+
+#starting {
+    color: #b5905c;
+}
+
+.footer1 {
+    height: 300px;
+    width: 100%;
+
+    margin-top: -70px;
+
+}
+
+.footer1 svg {
+    width: 50px;
+}
+
+.footer2 {
+    height: 150px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+}
+
+.footer2-1 {
+    height: 150px;
+    width: 50%;
+}
+
+.footer2-2 {
+    height: 150px;
+    width: 50%;
+}
+
+.footer2-2 svg {
+    width: 150px;
+    height: 45px;
+    margin-left: 263px;
+    margin-top: 37px;
+}
